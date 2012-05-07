@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.vaibhav.brocadeswitches'
 VERSION = '1.0'
 AUTHOR = 'Vaibhav Narula'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.vaibhav']
 PACKAGES = ['ZenPacks', 'ZenPacks.vaibhav', 'ZenPacks.vaibhav.brocadeswitches']
 INSTALL_REQUIRES = []
